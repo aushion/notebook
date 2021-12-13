@@ -143,4 +143,4 @@ const Index = () => {
 
 #### 效果
 
-![Dec-13-2021 11-08-31](/Users/ifeng/Desktop/Dec-13-2021 11-08-31.gif)
+![Dec-13-2021 11-08-31](https://github.com/aushion/notebook/blob/main/Dec-13-2021%2011-08-31.gif)
